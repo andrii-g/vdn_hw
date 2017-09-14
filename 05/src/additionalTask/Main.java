@@ -13,6 +13,7 @@ public class Main {
         list.add("укр мова");
         list.add("история");
         list.add("физра");
+
         list.add("биология");
 
         System.out.println(list.indexOf("Физика"));
